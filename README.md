@@ -1,6 +1,6 @@
-# flutter310_final_app
+# Chakila App
 
-A new Flutter application.
+A social media application similar to Instagram.
 
 ## Getting Started
 
